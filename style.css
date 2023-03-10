@@ -1,0 +1,11 @@
+body {
+    width: 60%;
+    background-color: bisque;
+}
+
+fieldset{
+    border-radius: 20px;
+    padding: 15px;
+    font-size: 20px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
